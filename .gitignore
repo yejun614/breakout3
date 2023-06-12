@@ -1,0 +1,4 @@
+build/
+.clangd
+.vscode
+.DS_Store

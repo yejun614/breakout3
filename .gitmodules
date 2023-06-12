@@ -1,0 +1,12 @@
+[submodule "lib/ftgl"]
+	path = lib/ftgl
+	url = https://github.com/ulrichard/ftgl.git
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json.git
+[submodule "lib/miniaudio"]
+	path = lib/miniaudio
+	url = https://github.com/mackron/miniaudio.git
+[submodule "lib/stb"]
+	path = lib/stb
+	url = https://github.com/nothings/stb.git
