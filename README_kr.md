@@ -34,7 +34,7 @@ $ sudo apt install build-essential git cmake -y
 
 ```bash
 # macOS (Homebrew)
-$ brew install git cmake
+$ brew install git cmake pkg-config
 ```
 
 2. 프로젝트 빌드
