@@ -41,7 +41,7 @@ $ brew install git cmake pkg-config
 ### 2. Build the project
 ```bash
 # Get a project
-$ git clone "https://github.com/yejun614/breakout3.git"
+$ git clone --recurse-submodules "https://github.com/yejun614/breakout3.git"
 
 # Navigate to the project folder
 $ cd breakout3

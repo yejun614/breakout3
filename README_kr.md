@@ -40,7 +40,7 @@ $ brew install git cmake pkg-config
 2. 프로젝트 빌드
 ```bash
 # 프로젝트 가져오기
-$ git clone "https://github.com/yejun614/breakout3.git"
+$ git clone --recurse-submodules "https://github.com/yejun614/breakout3.git"
 
 # 프로젝트 폴더로 이동
 $ cd breakout3
